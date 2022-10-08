@@ -1,0 +1,8 @@
+# print()
+# usada para imprimir aquilo que é enviado no argumento
+
+# input()
+# usado para solicitar dados do usuario no shell
+
+# eval()
+# instrui a linguagem para avaliar uma string como uma expressao Python
